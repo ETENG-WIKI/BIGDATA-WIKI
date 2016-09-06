@@ -1,7 +1,7 @@
 # Summary
 
 * [Home](index.md)
-* [大数据开源组件-技术选型](select.md)
+* [大数据开源组件-技术选型](toolselect.md)
 * [离线日志处理--流程设计](liuchengsheji.md)
 * [大数据平台环境部署amb](amb.md)
 * [大数据开源组件简单应用]()
